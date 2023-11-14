@@ -1,1 +1,1 @@
-Burada yolov4.weights dosyasını boyuttan dolayı yükleyemedim. Ama internetten aratarak bulabilirsiniz.
+Burada yolov4.weights dosyasını yüksek boyuttan dolayı yükleyemedim. Ama internetten aratarak bulabilirsiniz.
